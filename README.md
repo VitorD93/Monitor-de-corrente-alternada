@@ -2,17 +2,17 @@
 
 Repositório do trabalho da disciplina de PIC 1 do curso de Engenharia de Computação da Universidade Federal do Espírito Santo.
 
-# Sumário
-#-Sumário
+## Sumário
+*[Sumário](#sumario)
 #-Resumo
 #-Descrição
 #-Componentes e materiais
 #-Alunos
 
-# Resumo
+## Resumo
 
-# Descrição
+## Descrição
 
-# Componentes e materiais
+## Componentes e materiais
 
-# Alunos
+## Alunos
