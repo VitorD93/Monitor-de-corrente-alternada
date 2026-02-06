@@ -53,6 +53,7 @@ void reconecta_ubidots() {
     } else {
       Serial.print("Falha Ubidots rc="); 
       Serial.println(cliente_ubi.state());
+      delay(500);
     }
   }
 }
@@ -91,6 +92,7 @@ void ler_e_enviar() {
   Serial.printf("Lido: %.1fV | %.2fA | %.1fW | %.3fkWh | %.2f\n", tensao, corrente, potencia, energia, fator_potencia);
 
   // Envio ao Ubidots (formato json)
+  String json_ubi = "{";
   json_ubi += "\"tensao\":" + String(tensao, 1) + ",";
   json_ubi += "\"corrente\":" + String(corrente, 2) + ",";
   json_ubi += "\"potencia\":" + String(potencia, 1) + ",";
