@@ -1,6 +1,6 @@
 # Monitor de corrente alternada
 
-Repositório do projeto de monitor de corrente alternada de Projeto integrado de computaçao.
+Repositório do projeto de monitor de corrente alternada de Projeto integrado de computação.
 
 ## Sumário
 * [Sumário](#sumario)
