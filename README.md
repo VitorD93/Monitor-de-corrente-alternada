@@ -23,12 +23,15 @@ Impressões do código no Serial Monitor da Arduino IDE.
 ![WhatsApp Image 2026-02-09 at 16 59 50 (1)](https://github.com/user-attachments/assets/cd58deaa-0a74-4733-aca2-a4e7ad372a02)
 Visualizações das mensagens enviadas por MQTT ao HiveMQ.
 
+
 ![WhatsApp Image 2026-02-09 at 16 59 49](https://github.com/user-attachments/assets/e2dff36a-4df6-40c0-9eb9-0c45041efa73)
 Visualiação das variáveis pelo UbiDots, com a representação gráfica.
+
 
 ![WhatsApp Image 2026-02-09 at 17 05 29 (1)](https://github.com/user-attachments/assets/d17794df-85f7-4962-9c18-b9b72166cd77)
 ![WhatsApp Image 2026-02-09 at 17 05 29](https://github.com/user-attachments/assets/3e3bb0cb-68e2-48e6-b596-62cab19e11e3)
 Conexões internas do dispositivo e da bobina.
+
 
 ## Demonstração
 Veja o funcionamento em:  [(video de demonstração)](https://youtu.be/4osq0E-oIqU)
